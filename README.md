@@ -2,6 +2,12 @@
 
 > 🏆 **2nd Runner-Up, REACT 2026 Datathon** (Team Coin Lab)
 
+<p align="center">
+  <img src="assets/award.jpg" alt="Team Coin Lab receiving the 2nd Runner-Up prize at the REACT 2026 National Datathon Competition" width="640">
+  <br>
+  <em>Receiving the 2nd Runner-Up prize at the REACT 2026 National Datathon Competition, organised by the IEEE SEU Student Branch, Southeast University.</em>
+</p>
+
 The solution is an efficient pipeline built only from small machine-learning models. It detects fraudulent transactions in a
 time-ordered payment stream. Two gradient-boosted tree models and a compact tabular neural network are
 trained on 250 hand-built, leakage-free features and combined with a rank blend.
@@ -86,6 +92,8 @@ Components were removed when measurement showed they added nothing:
 ```
 .
 ├── team-coin-lab.ipynb   # full pipeline: features, validation, models, blend, submission
+├── assets/
+│   └── award.jpg        # prize photo
 └── README.md
 ```
 
